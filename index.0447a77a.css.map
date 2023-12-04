@@ -1,0 +1,1 @@
+{"mappings":"ACAA,sBAGA","sources":["index.0447a77a.css","src/style.css"],"sourcesContent":[".on-none {\n  display: none;\n}\n\n.on-block {\n  display: block;\n}\n\n/*# sourceMappingURL=index.0447a77a.css.map */\n",".on-none {\n    display: none;\n}\n.on-block {\n    display: block;\n}"],"names":[],"version":3,"file":"index.0447a77a.css.map"}
